@@ -6,9 +6,7 @@ Your team will assist a fictional pet adoption agency in creating a website. To 
 
 ## Prerequisites
 
-### Azure account
-
-Each team member will need an Azure account. With [Azure for Students](https://aka.ms/a4s?WT.mc_id=academic-28005-chrhar), you can access $100 in free credit, and a large suite of free services!
+### Working Laptop, Code Editor
 
 ### Skills
 
@@ -24,14 +22,6 @@ Each team member will need an Azure account. With [Azure for Students](https://a
   - [Install git on Windows](https://git-scm.com/download/win)
   - [Install git on Linux](https://git-scm.com/download/linux)
 - [Visual Studio Code](https://code.visualstudio.com/)
-- [Node.js](https://nodejs.org/)
-  - [Install Node.js on Windows](https://docs.microsoft.com/windows/dev-environment/javascript/nodejs-on-windows?WT.mc_id=academic-28005-chrhar)
-  - [Install Node.js on Linux or MacOS](https://github.com/nvm-sh/nvm#installing-and-updating)
-- [Azure Functions Core Tools](https://www.npmjs.com/package/azure-functions-core-tools), which can be installed by running the following command (after Node.js and npm are installed)
-
-  ```bash
-  npm i -g azure-functions-core-tools@3 --unsafe-perm true
-  ```
 
 ## Resources
 
