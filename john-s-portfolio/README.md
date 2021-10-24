@@ -1,8 +1,6 @@
-# Portfolio : The Pet Shelter
+# Portfolio : Personal Website
 
-According to the American Society for the Prevention of Cruelty to Animals (ASPCA), animal shelters receive about 3 million dogs annually - about 6 dogs per minute! While euthanasia rates have dropped, over 500,000 dogs are euthanized because they could not be matched with their original owners or an adoptive family.
-
-Your team will assist a fictional pet adoption agency in creating a website. To start they would like to provide a tool where a user could create a list of all the tasks they need to perform when they adopt a pet, like schedule their first vet appointment or apply for a dog license. Your team will do so by using [Azure Static Web Apps](https://docs.microsoft.com/azure/static-web-apps/overview?WT.mc_id=academic-28005-chrhar) for hosting and an already created template.
+PROJECT DESCRIPTION HERE!
 
 ## Prerequisites
 
@@ -23,12 +21,6 @@ Your team will assist a fictional pet adoption agency in creating a website. To 
   - [Install git on Linux](https://git-scm.com/download/linux)
 - [Visual Studio Code](https://code.visualstudio.com/)
 
-## Resources
-
-A series of resources will be provided to help your team determine the appropriate steps for completion. The resources provided should provide your team with enough information to achieve each goal. If you get stuck, you can always ask a mentor for additional help.
-
-A [sample of the site](https://kind-beach-04aea671e.azurestaticapps.net/) has been deployed so you can see how it looks in action.
-
 ## Goals
 
 Your team will obtain the starter, deploy the application to the cloud, download and run the source code locally, and make modifications to the site.
@@ -42,17 +34,7 @@ Your team will obtain the starter, deploy the application to the cloud, download
 
 ## Validation
 
-This workshop is designed to be a goal-oriented self-exploration of Azure and related technologies. Your team can use the [validation tool](https://ashy-mushroom-0609d7c10.azurestaticapps.net/) to confirm the site has been deployed correctly and updates pushed.
-
-## Where do we go from here?
-
-This project is designed as a potential seed for future development. From a technical perspective, you can begin to incorporate whatever frameworks or technologies you wish to use. This could include [React](https://docs.microsoft.com/learn/paths/react?WT.mc_id=academic-28005-chrhar) or [Vue](https://docs.microsoft.com/learn/paths/vue-first-steps/?WT.mc_id=academic-28005-chrhar).
-
-If you were to continue with this idea, your team could potentially:
-
-- Use the [Petfinder API](https://www.petfinder.com/developers/) to create an application to match potential adopters with dogs
-- Use the [Bing Maps API](https://docs.microsoft.com/bingmaps/getting-started/?WT.mc_id=academic-28005-chrhar) to search based on location
-- Use [Custom Vision](https://azure.microsoft.com/services/cognitive-services/custom-vision-service/?WT.mc_id=academic-28005-chrhar) to identify dog breeds
+JUDJING CRITERIA HERE!
 
 ## Additional notes and disclaimers
 
